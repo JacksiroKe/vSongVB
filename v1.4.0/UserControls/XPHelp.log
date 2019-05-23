@@ -1,0 +1,2 @@
+Line 17: Class PicClip.PictureClip of control pc1 was not a loaded control class.
+Can't have child controls capable of receiving focus on a control that cannot receive focus

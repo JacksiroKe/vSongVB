@@ -1,0 +1,96 @@
+General LANG STRINGS
+vSongBook
+© Jackson Siro
+Hifadhi Mabadiliko
+Sitisha 
+Sawa
+Lugha Unayotaka:
+Kosa lisilotarajiwa na vSongBook
+Haiwezekani kupata faili za data. Unaweza kuitisha nakala mpya ya vSongBook ama uwasiliane na msanidi", vbExclamation, "Kosa lisilotarajiwa na vSongBook
+
+1. frmAa1 STRINGS
+Karibu kwa vSongBook
+Jina lako/ Jina la Kanisa Lako:
+k.m Ndugu Jack Siro wa Kisii Evening Light Church
+Nafasi zilizosalia . . . 
+
+2. frmCcHome STRINGS
+&Faili
+&Mtazamo mpya wa &Wimbo
+&Funga Mtazamo Ulioko
+&Funga Mitazamo Yote
+&Ondoka
+&Onyesha Wimbo
+&Hariri Wimbo
+&Wimbo Mpya
+&Vitabu vya Nyimbo
+&Mipangilio
+&Namna
+&Namna kwa kifupi
+&Namna ya kusongea
+&Vidude vya kuteremshia
+&Kidude cha kufichua
+&Dirisha
+&Jinsi inatumika
+&Usaidizi
+&Kighafla
+&Funya
+Ongeza Vitabu
+Tafuta katika vitabu vyote
+
+3. frmEeOptions STRINGS
+Mipangilio ya vSongBook
+KAWAIDA
+Hali ya Tablet
+Hali ya Tablet ni wakati unatumia mguso wa skirini
+MWONEKANO
+Ukubwa wa Fonti ya Mtazamo 
+Aina ya Fonti ya Mtazamo 
+Ukubwa wa Fonti ya Onyesho
+Aina ya Fonti ya Onyesho 
+Sampuli ya Maneno
+Kila Siku Mwamini Kristo
+RANGI
+Rangi Nyeusi na Nyeupe
+Rangi Nyeupe na Nyeusi
+Rangi Buluu na Nyeupe
+Rangi Nyeupe na Buluu
+Rangi Kijani na Nyeupe
+Rangi Nyeupe na Kijani
+Rangi Chungwa na Nyeupe
+Rangi Nyeupe na Chungwa
+
+4. frmDdHelp STRINGS
+Usaidizi wa vSongBook
+vSongBook ni programu ya kisasa inayojitahidi kukupa huduma bora kwenye tarakilishi yako huku ikitumia mwonekano mwepesi na rahisi. Iwapo utakumbana na changamoto zozote usikose kuwasiliana na msanidi Ndugu. Jack Siro (Kisii Evening Light Church, Kenya) kupitia kwa mojawapo ya mawasiliano yaliyo chini.
+
+5. frmDdInfo STRINGS
+Jinsi vSongBook inatumika
+vSongBook ina vidude aina mbili: vinavyonekana na vile vya mkato vya kicharazo kukusaidia utekeleze kazi yako kwa haraka na urahisi. Chukua muda wako kujifunza jinsi vinatumiaka. Kuvitumia vibaya (k.m kutumia zaidi ya kidude kimoja kwa wakati mmoja) si vyema. Ni kama kutesa vSongBook.
+HALI YA ONYESHO
+HALI YA KUTAFUTA
+
+6. frmFfEditSong
+Kuhariri wimbo kwenye: 
+Hifadhi na &UFUNGE
+Hifadhi &PEKEE
+
+7. frmFfNewsong STRINGS
+Ongezea Wimbo kwa 
+Hifadhi na &UONGEZE
+Kichwa cha Wimbo
+Maneno ya Wimbo
+
+8. frmCcSong STRINGS
+ONYESHA
+HARIRI
+FONTI
+
+Mabadiliko yako yamehifadhiwa vyema!
+
+9. frmBbSongBook STRINGS
+Vitabu vya Nyimbo
+Jina la Kitabu:
+ONGEZA
+
+Lugha
