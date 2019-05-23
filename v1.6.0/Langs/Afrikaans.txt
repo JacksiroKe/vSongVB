@@ -1,0 +1,96 @@
+Algemene LANG STRINGS
+vSongBook
+© Jackson Siro
+Stoor
+kanselleer
+Goed
+Voorgestelde Taal:
+vSongBook onverwagte fout
+Kan databasisleers nie opspoor nie. Of jy kry 'n nuwe kopie van vSongBook of kontak die ontwikkelaar ", vbExclamation," vSongBook onverwagte fout
+
+1. frmAa1 STRINGS
+Welkom by vSongBook
+Jou Naam / Naam van jou Kerk:
+soos Broer Jack Siro of Kisii Evening Light Church
+Oorblywende karakters. . .
+
+2. frmCcHome STRINGS
+&Leer
+& Nuwe Song Voorskou
+& Sluit huidige voorskou
+& Sluit alle voorskou
+& Exit
+& Projek Song
+& Redigeer liedjie
+&Nuwe liedjie
+& liedboeken
+& Instellings
+& Styles
+& Voorskou Style
+& Navigation-Style
+& Rolknoppies
+& Dropdown-knoppie
+&Venster
+&Hoe dit werk
+& Help Desk
+& Popup
+&Naby
+Voeg SongBooks by
+Soek in alle liedjies
+
+3. FRmEeOptions STRINGS
+vSongBook instellings
+GENERAL
+Tablet af
+Tablet af is wanneer jy die aanraakskerm invoer gebruik
+DISPLAY
+Liedjie Voorskou Font Grootte
+Liedjie Voorskou Font Type
+Liedprojeksie lettergrootte
+Liedprojeksie Font Type
+Voorbeeld teks:
+Glo altyd Christus
+TEMA
+Swart en wit tema
+Wit en Swart Tema
+Blou en Wit Tema
+Wit en Blou Tema
+Groen en Wit Tema
+Wit en Groen Tema
+Oranje en Wit Tema
+Wit en Oranje Tema
+
+4. frmDhelp STRINGS
+vSongBook Help Desk
+vSongBook is 'n moderne liedjie aansoek om jou die beste diens op jou toestel te gee, terwyl jy 'n eenvoudige koppelvlak behou. As u enige probleme ondervind, kontak die ontwikkelaar Bro. Jack Siro (Kisii Evening Light Church, Kenia) op enige van die volgende maniere:
+
+5. frmDdInfo STRINGS
+Hoe vSongBook werk
+vSongBook het beide Visuele knoppies en sleutelbordkortpaaie om u te help om take vinnig en maklik te doen. Neem asseblief die tyd om dit te leer. Misbruik van hulle (bv. Met meer as een knoppie op dieselfde tyd) is hoogs ontmoedig. Dit is soos 'n harrassing vSongBook.
+PROJEKSIE MODE
+SEARCHING MODE
+
+6. frmFfEditSong
+Wysig 'n liedjie op:
+Stoor en sluit
+Stoor & SLEGS
+
+7. frmFfNewsong STRINGS
+Voeg 'n nuwe lied by
+Stoor en voeg by
+Titel van die liedjie
+Inhoud van die liedjie
+
+8. FRMCcSong STRINGS
+PROJEK
+EDIT
+FONT
+
+Jou veranderinge is suksesvol gestoor!
+
+9. frmBbSongBook STRINGS
+Liedboekbestuur
+SongBook Naam:
+ADD
+
+Taal

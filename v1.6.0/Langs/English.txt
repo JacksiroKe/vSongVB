@@ -1,0 +1,96 @@
+﻿General LANG STRINGS
+vSongBook
+© Jackson Siro
+Save
+Cancel 
+Okay
+Preffered Language:
+vSongBook unexpected error
+Unable to locate database files. Either you obtain a fresh copy of vSongBook or contact the developer", vbExclamation, "vSongBook unexpected error
+
+1. frmAa1 STRINGS
+Welcome to vSongBook
+Your Name/ Name of Your Church:
+like Brother Jack Siro or Kisii Evening Light Church
+Remaining characters . . . 
+
+2. frmCcHome STRINGS
+&File
+&New Song Preview
+&Close Current Preview
+&Close All Preview
+&Exit
+&Project Song
+&Edit Song
+&New Song
+&SongBooks
+&Settings
+&Styles
+&Preview Style
+&Navigation-Style
+&Scroll Buttons
+&Dropdown Button
+&Window
+&How it Works
+&Help Desk
+&Popup
+&Close
+Add SongBooks
+Search in all songbooks
+
+3. frmEeOptions STRINGS
+vSongBook Settings
+GENERAL
+Tablet Mode
+Tablet mode is when you are using touch screen input
+DISPLAY
+Song Preview Font Size 
+Song Preview Font Type 
+Song Projection Font Size 
+Song Projection Font Type 
+Sample Text:
+Always Believe Christ
+THEME
+Black and White Theme
+White and Black Theme
+Blue and White Theme
+White and Blue Theme
+Green and White Theme
+White and Green Theme
+Orange and White Theme
+White and Orange Theme
+
+4. frmDdHelp STRINGS
+vSongBook Help Desk
+vSongBook is a modern songbook application striving to give you the best service on your device while maintaning a simple interface. Just in case you encounter any issues contact the developer Bro. Jack Siro (Kisii Evening Light Church, Kenya) on any of the means below:
+
+5. frmDdInfo STRINGS
+How vSongBook Works
+vSongBook has both Visual Buttons and Keyboard shortcuts to help you do tasks quickly and with easy. Please take your time to learn them. Misusing them (e.g using more than one button at the same time) is highly discouraged. It's like harrassing vSongBook.
+PROJECTION MODE
+SEARCHING MODE
+
+6. frmFfEditSong
+Editting a song on: 
+Save and &Close
+Save &ONLY
+
+7. frmFfNewsong STRINGS
+Add a New Song to 
+Save and &ADD
+Title of the Song
+Content of the Song
+
+8. frmCcSong STRINGS
+PROJECT
+EDIT
+FONT
+
+Your changes have been saved successfully!
+
+9. frmBbSongBook STRINGS
+Songbook Management
+SongBook Name:
+ADD
+
+Language

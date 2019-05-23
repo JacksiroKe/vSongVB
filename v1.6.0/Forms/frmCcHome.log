@@ -1,0 +1,16 @@
+Line 149: Class vSongBook4PCf.XPButton of control cmdSongBook was not a loaded control class.
+Line 194: Class vSongBook4PCf.XPButton of control cmdSongBooks was not a loaded control class.
+Line 156: The property name _ExtentX in cmdSongBook is invalid.
+Line 157: The property name _ExtentY in cmdSongBook is invalid.
+Line 158: The property name TX in cmdSongBook is invalid.
+Line 159: The property name ENAB in cmdSongBook is invalid.
+Line 169: The property name FOCUSR in cmdSongBook is invalid.
+Line 170: The property name MPTR in cmdSongBook is invalid.
+Line 171: The property name MICON in cmdSongBook is invalid.
+Line 200: The property name _ExtentX in cmdSongBooks is invalid.
+Line 201: The property name _ExtentY in cmdSongBooks is invalid.
+Line 202: The property name TX in cmdSongBooks is invalid.
+Line 203: The property name ENAB in cmdSongBooks is invalid.
+Line 213: The property name FOCUSR in cmdSongBooks is invalid.
+Line 214: The property name MPTR in cmdSongBooks is invalid.
+Line 215: The property name MICON in cmdSongBooks is invalid.

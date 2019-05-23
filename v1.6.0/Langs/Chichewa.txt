@@ -1,0 +1,96 @@
+General LANG STRINGS
+vSongBook
+© Jackson Siro
+Sungani
+Sakanizani
+Chabwino
+Chilankhulo Cholimbidwa:
+vSongBook zosayembekezereka zosadziwika
+Simungathe kupeza mafayilo a deta. Mwina mungapezeko vesi yatsopano ya vSongBook kapena yambani woyambitsa ", vBExclamation," vSongBook cholakwika chosadziŵika
+
+1. frmAa1 STRINGS
+Takulandirani ku vSongBook
+Dzina Lanu / Dzina la Mpingo Wanu:
+monga M'bale Jack Siro kapena Kisii Evening Light Church
+Zotsalira. . .
+
+2.FMCCHome STRINGS
+& Foni
+& Kuwonera kwa Nyimbo Yatsopano
+& Close Close Preview
+& Yatsani Zonse Zoyang'ana
+&Potulukira
+& Project Song
+& Edit Song
+& New Song
+& SongBooks
+& Makhalidwe
+& Masitala
+& Ndemanga Yoyang'ana
+& Style Navigation
+& Makatani Ophwanyidwa
+& Botsulo Lotsitsa
+& Window
+& Momwe Zimagwirira Ntchito
+& Desk Thandizo
+&Tumphuka
+& Tseka
+Onjezani Mabuku
+Fufuzani m'mabuku onse
+
+3.Makampani Omwe Amagwira Ntchito
+vSongBook Settings
+YAMODZI
+Njira yamapiritsi
+Mawonekedwe a pulogalamu yamakono ndi pamene mukugwiritsira ntchito mawonekedwe owonetsera
+ONANI
+Nyimbo Yoyang'ana Mafelemu
+Mtundu Wowonjezera Mtundu wa Maonekedwe
+Kukula kwa Nyimbo
+Nyimbo Yopanga Mitundu
+Chitsanzo Chachidule:
+Khulupirirani Khristu Nthawi Zonse
+MUTU
+Mitu Yakuda ndi Yoyera
+Mutu Wakuda ndi Wakuda
+Mutu Wa Buluu ndi Woyera
+Mutu Wakuda ndi Wa Blue
+Mutu wa Green ndi White
+Mutu Wakuda ndi Wautali
+Mutu wa Orange ndi White
+Mutu wa White ndi Orange
+
+4.MdDHelp STRINGS
+vSongBook Thandizo Desk
+vSongBook ndilo buku lamakono lamakono loyesa kuyesera kuti akupatseni ntchito yabwino pa chipangizo chanu pamene mukugwiritsa ntchito mawonekedwe osavuta. Momwe mungakumane ndi nkhani iliyonse yothanani ndi wogulitsa Bro. Jack Siro (Kisii Evening Light Church, Kenya) pa njira iliyonse pansipa:
+
+5. frmDdInfo STRINGS
+vSongBook ikugwira ntchito bwanji
+vSongBook ili ndi Mabatani Achiwonetsero ndi mafupipafupi a makedoniya kuti akuthandizeni kuchita mofulumira komanso mosavuta. Chonde tengani nthawi yanu kuti muwaphunzire. Kuwagwiritsa ntchito molakwika (e.g pogwiritsa ntchito botani zambiri panthawi imodzimodzi) ndizovuta kwambiri. Ziri ngati harrassing vSongBook.
+NJIRA YOPEREKA
+KUFUNA MODE
+
+6.FomFoDiKu
+Kusintha nyimbo pa:
+Sungani ndi & Tsekani
+Sungani & KULI
+
+7.FmFfNewsong STRINGS
+Onjezani Nyimbo Yatsopano
+Sungani ndi & ADD
+Mutu wa Nyimbo
+Zotsatira za Nyimbo
+
+8. frmCcSong STRINGS
+PROJECT
+SUNGANI
+FONT
+
+Zosintha zanu zasungidwa bwino!
+
+9. frmBbSongBook STRINGS
+Nyimbo Yothandizira
+SongBook Name:
+ADD
+
+Chilankhulo

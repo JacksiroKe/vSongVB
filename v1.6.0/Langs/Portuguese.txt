@@ -1,0 +1,96 @@
+Cadeias gerais de LANG
+vSongBook
+© Jackson Siro
+Salvar
+Cancelar
+OK
+Preffered Language:
+erro inesperado do vSongBook
+Nao e possivel localizar arquivos de banco de dados. Ou voce obtem uma nova copia do vSongBook ou entre em contato com o desenvolvedor ", vbExclamation," vSongBook erro inesperado
+
+1. FrmAa1 STRINGS
+Bem-vindo ao vSongBook
+Seu Nome / Nome da sua Igreja:
+gostar irmao Jack Siro ou Kisii Evening Light Church
+Caracteres restantes. . .
+
+2. CORTES DE FRIMENSAO
+&Arquivo
+& New Song Preview
+& Fechar Visualizacao atual
+& Close All Preview
+&Saida
+& Project Song
+& Editar musica
+&Nova musica
+& SongBooks
+&Configuracoes
+E estilos
+E estilo de pre-visualizacao
+& Estilo de navegacao
+Botoes de rolagem
+& Dropdown Button
+&Janela
+&Como funciona
+&Central de Ajuda
+&Aparecer
+&Fechar
+Adicione SongBooks
+Procure em todos os livros
+
+3. frmEeOptions STRINGS
+Configuracoes do vSongBook
+GENERAL
+Modo Tablet
+O modo Tablet e quando voce esta usando a entrada da tela sensivel ao toque
+EXIBICAO
+Tamanho da fonte da pre-visualizacao da musica
+Tipo de fonte de pre-visualizacao de musica
+Tamanho da fonte da projecao da cancao
+Tipo de Fonte de Projecao de Cancao
+Texto de amostra:
+Sempre acredite em Cristo
+TEMA
+Tema preto e branco
+Tema branco e preto
+Tema azul e branco
+Tema Branco e Azul
+Tema verde e branco
+Tema Branco e Verde
+Tema de laranja e branco
+Tema Branco e Laranja
+
+4. frmDdHelp STRINGS
+Servidor de ajuda do vSongBook
+O vSongBook e um aplicativo de cancao moderno que se esforca para oferecer o melhor servico em seu dispositivo enquanto mantem uma interface simples. Apenas no caso de voce encontrar qualquer problema entre em contato com o desenvolvedor Bro. Jack Siro (Kisii Evening Light Church, Quenia) em qualquer um dos meios abaixo:
+
+5. frmDdInfo STRINGS
+Como o vSongBook funciona
+O vSongBook possui botoes visuais e atalhos de teclado para ajuda-lo a fazer tarefas rapidamente e com facilidade. Por favor, tome seu tempo para aprende-los. O mau uso deles (por exemplo, usando mais de um botao ao mesmo tempo) e altamente desencorajado. E como um acaso vSongBook.
+MODO DE PROJECAO
+MODO DE PESQUISA
+
+6. frmFfEditSong
+Editando uma musica em:
+Salvar e fechar
+Salvar e SOMENTE
+
+7. frmFfNewsong STRINGS
+Adicionar uma nova musica a
+Salvar e ADICIONAR
+Titulo da musica
+Conteudo da cancao
+
+8. frmCcSong STRINGS
+PROJETO
+EDITAR
+TIPO DE FONTE
+
+Suas alteracoes foram salvas com sucesso!
+
+9. FRMBbSongBook STRINGS
+Gerenciamento de Songbook
+SongBook Nome:
+ADICIONAR
+
+Lingua

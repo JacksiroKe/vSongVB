@@ -1,0 +1,96 @@
+General LANG STRINGS
+vSongBook
+© Jackson Siro
+Guardar
+Cancelar
+Bueno
+Idioma preferido:
+vSongBook error inesperado
+No se pueden localizar los archivos de la base de datos. Ya sea que obtenga una copia nueva de vSongBook o pongase en contacto con el desarrollador ", vbExclamation," vSongBook error inesperado
+
+1. frmAa1 CUERDAS
+Bienvenido a vSongBook
+Su Nombre / Nombre de Su Iglesia:
+me gusta Brother Jack Siro o Kisii Evening Light Church
+Caracteres restantes. . .
+
+2. frmChHome CUERDAS
+&Archivo
+Y una nueva cancion
+& Cerrar Presentacion actual
+& Cerrar todo Vista previa
+&Salida
+& Project Song
+& Editar cancion
+&Nueva cancion
+& SongBooks
+& Configuracion
+& Estilos
+Y estilo de vista previa
+& Navegacion-Estilo
+& Scroll Botones
+& Boton Desplegable
+&Ventana
+&Como funciona
+&Mesa de ayuda
+&Surgir
+&Cerca
+Añadir canciones
+Buscar en todos los libros
+
+3. frmEeOptions CUERDAS
+Configuracion vSongBook
+GENERAL
+Modo Tablet
+El modo Tablet es cuando se utiliza la entrada de pantalla tactil
+MONITOR
+Tamaño de fuente de la vista previa de la cancion
+Tipo de fuente
+Tamaño de fuente de proyeccion de cancion
+Tipo de fuente de proyeccion de cancion
+Texto de ejemplo:
+Siempre Cree en Cristo
+TEMA
+Tema Blanco y Negro
+Tema Blanco y Negro
+Tema Azul y Blanco
+Tema Blanco y Azul
+Tema verde y blanco
+Tema Blanco y Verde
+Tema naranja y blanco
+Tema Blanco y Naranja
+
+4. frmDdHelp CUERDAS
+vSongBook Help Desk
+vSongBook es una aplicacion moderna de cancionero que se esfuerza por ofrecerle el mejor servicio en su dispositivo mientras mantiene una interfaz sencilla. En caso de que se encuentre con algun problema, pongase en contacto con el desarrollador Bro. Jack Siro (Kisii Evening Light Church, Kenia) en cualquiera de los siguientes medios:
+
+5. frmDdInfo CUERDAS
+Como funciona vSongBook
+vSongBook tiene botones visuales y atajos de teclado para ayudarle a realizar tareas de forma rapida y sencilla. Por favor tomese su tiempo para aprenderlos. El mal uso de ellos (por ejemplo, usando mas de un boton al mismo tiempo) es altamente desalentado. Es como vSongBook harrassing.
+MODO DE PROYECCIÓN
+MODO DE BÚSQUEDA
+
+6. frmFfEditSong
+Editar una cancion en:
+Guardar y cerrar
+Ahorrar y SOLAMENTE
+
+7. frmFfNewsONG CUERDAS
+Añadir una cancion nueva a
+Guardar y & ADD
+Titulo de la cancion
+Contenido de la cancion
+
+8. frmCcSong CUERDAS
+PROYECTO
+EDITAR
+TIPO DE FUENTE
+
+¡Sus cambios se han guardado con exito!
+
+9. frmBbSongBook CUERDAS
+Gestion Songbook
+Nombre del SongBook:
+AÑADIR
+
+Idioma

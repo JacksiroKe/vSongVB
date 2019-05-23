@@ -1,0 +1,96 @@
+CADRES LANG generales
+vSongBook
+© Jackson Siro
+Sauvegarder
+Annuler
+d'accord
+Langue prefabriquee:
+erreur inattendue vSongBook
+Impossible de localiser les fichiers de base de donnees. Ou vous obtenez une nouvelle copie de vSongBook ou contactez le developpeur ", vbExclamation", vSongBook erreur inattendue
+
+1. frmAa1 STRINGS
+Bienvenue sur vSongBook
+Votre nom / nom de votre eglise:
+comme, frere Jack Siro ou Kisii Evening Light Church
+Caracteres restants. . .
+
+2. chaines de frmCcHome
+&Fichier
+& Nouvel apercu de la chanson
+& Close Current Preview
+& Close All Preview
+&Sortie
+& Project Song
+& Edit Song
+&Nouvelle chanson
+& SongBooks
+&Parametres
+&Modes
+& Apercu du style
+& Navigation-Style
+& Boutons de defilement
+& Dropdown Button
+&Fenetre
+&Comment ca marche
+&Bureau d'aide
+&Apparaitre
+&Fermer
+Ajouter des livres de chansons
+Rechercher tous les chansons
+
+3. frmEeOptions STRINGS
+Parametres vSongBook
+GENERAL
+Mode tablette
+Le mode tablette est lorsque vous utilisez l'entree de l'ecran tactile
+AFFICHER
+Taille de police
+Type de police de previsualisation
+Taille de la police de projection de chanson
+Type de police de projection de chanson
+Exemple de texte:
+Toujours croire au Christ
+THEME
+Theme noir et blanc
+Theme blanc et noir
+Theme bleu et blanc
+Theme blanc et bleu
+Theme vert et blanc
+Theme blanc et vert
+Theme orange et blanc
+Theme blanc et orange
+
+4. frmDdHelp STRINGS
+Service d'assistance vSongBook
+vSongBook est une application de repertoire de musique moderne qui s'efforce de vous offrir le meilleur service sur votre appareil tout en maintenant une interface simple. Dans le cas où vous rencontrez des problemes, contactez le developpeur Bro. Jack Siro (Kisii Evening Light Church, Kenya) sur l'un des moyens ci-dessous:
+
+5. frmDdInfo STRINGS
+Fonctionnement de vSongBook
+vSongBook comporte à la fois des boutons visuels et des raccourcis clavier pour vous aider à effectuer des tâches rapidement et facilement. Prenez votre temps pour les apprendre. Le fait de les utiliser mal (par exemple en utilisant plus d'un bouton en meme temps) est fortement deconseille. C'est comme harceler vSongBook.
+MODE DE PROJECTION
+MODE DE RECHERCHE
+
+6. frmFfEditSong
+Edition d'une chanson sur:
+Sauver et fermer
+Enregistrer et SEULEMENT
+
+7. frmFfNewsong STRINGS
+Ajouter un nouveau morceau à
+Enregistrer et AJOUTER
+Titre de la chanson
+Contenu de la chanson
+
+8. frmCcSong STRINGS
+PROJET
+MODIFIER
+FONT
+
+Vos modifications ont ete enregistrees avec succes!
+
+9. frmBbSongBook STRINGS
+Gestion des chansons
+SongBook Nom:
+AJOUTER
+
+La langue
